@@ -1,12 +1,40 @@
-# React + Vite
+# 🎲 Boardgame App
+A web application for browsing board games. Currently under development.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚧 Project Status
+This project is in construction.
 
-Currently, two official plugins are available:
+✅ Stable base commit: 9b3d5ab – A working version of the boardgame display.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚫 No functionality to save or edit board games yet.
 
-## Expanding the ESLint configuration
+🔍 Filter/search functionality is planned but not implemented.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features (in progress)
+ Display board game list (from static or test data).
+
+ Add filters (e.g., by name, theme, number of players, etc.).
+
+ Add functionality to save or edit board games.
+
+ UI improvements and responsive design.
+
+## 💡 Next Steps
+Implement filter input and logic to dynamically search through board games.
+
+Connect to persistent storage or add local state for saving changes.
+
+## 📦 Tech Stack
+HTML / CSS / TypeScript/React
+
+## 📁 Getting Started
+Clone the repository
+
+Open index.html in your browser
+
+View board games (currently static)
+
+Check back for filter/search updates soon! Next Steps
+Implement filter input and logic to dynamically search through board games.
+
+Connect to persistent storage or add local state for saving changes.
