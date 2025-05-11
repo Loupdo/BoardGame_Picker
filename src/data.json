@@ -1,0 +1,5938 @@
+{
+	"items": {
+		"item": [
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "7 Wonders"
+				},
+				"yearpublished": "2010",
+				"image": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__original/img/jt70jJDZ1y1FWJs4ZQf5FI8APVY=/0x0/filters:format(jpeg)/pic7149798.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__thumb/img/BUOso8b0M1aUOkU80FWlhE8uuxc=/fit-in/200x150/filters:strip_icc()/pic7149798.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "108639"
+						},
+						"average": {
+							"_value": "7.67201"
+						},
+						"bayesaverage": {
+							"_value": "7.56049"
+						},
+						"stddev": {
+							"_value": "1.27692"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "7",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "148963"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:44:54"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "68448",
+				"_subtype": "boardgame",
+				"_collid": "89594782"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "7 Wonders Duel"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__original/img/Ju836WNSaW7Mab9Vjq2TJ_FqhWQ=/0x0/filters:format(jpeg)/pic2576399.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__thumb/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "101723"
+						},
+						"average": {
+							"_value": "8.08729"
+						},
+						"bayesaverage": {
+							"_value": "7.96379"
+						},
+						"stddev": {
+							"_value": "1.19689"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "2",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "171002"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:44:20"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "173346",
+				"_subtype": "boardgame",
+				"_collid": "132041931"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Adventure Tactics: Domianne's Tower"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/1wBZV8ARCKbs-74jYgBfcQ__original/img/nYOArieQ9s-FnVsKJwoGs7sQ6N0=/0x0/filters:format(png)/pic4832681.png",
+				"thumbnail": "https://cf.geekdo-images.com/1wBZV8ARCKbs-74jYgBfcQ__thumb/img/T-7xprf7dQMeBnsQxOG_gzLEJZ4=/fit-in/200x150/filters:strip_icc()/pic4832681.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1138"
+						},
+						"average": {
+							"_value": "7.76816"
+						},
+						"bayesaverage": {
+							"_value": "6.22792"
+						},
+						"stddev": {
+							"_value": "1.46389"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "45",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "2750"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:21:15"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "268504",
+				"_subtype": "boardgame",
+				"_collid": "132042854"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Alchemists"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__original/img/SP4ItZ27dLweUPbz_bF7C-P7GtA=/0x0/filters:format(png)/pic2241156.png",
+				"thumbnail": "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__thumb/img/-a0oJ_E49V_7PDW78W7KIyS3rF8=/fit-in/200x150/filters:strip_icc()/pic2241156.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "23650"
+						},
+						"average": {
+							"_value": "7.63792"
+						},
+						"bayesaverage": {
+							"_value": "7.40235"
+						},
+						"stddev": {
+							"_value": "1.43221"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "120",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "32190"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 13:56:46"
+				},
+				"numplays": "0",
+				"comment": "I personally love it but I find it difficult to find people to play with due to the complexity, and the fact that if you have play multiple time you have a clear advantage over a new player",
+				"_objecttype": "thing",
+				"_objectid": "161970",
+				"_subtype": "boardgame",
+				"_collid": "41638278"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Avatar: The Last Airbender – Fire Nation Rising"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/fncIEzHWUr0Cndoy4MGHDg__original/img/7DHOySZW3BaLQ54rU8nCCWAJAVE=/0x0/filters:format(jpeg)/pic6736401.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/fncIEzHWUr0Cndoy4MGHDg__thumb/img/t3T2N83U_4TejrjtlkpQ5w5UFwo=/fit-in/200x150/filters:strip_icc()/pic6736401.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "314"
+						},
+						"average": {
+							"_value": "7.31274"
+						},
+						"bayesaverage": {
+							"_value": "5.69482"
+						},
+						"stddev": {
+							"_value": "1.35921"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "843"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:31:53"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "358588",
+				"_subtype": "boardgame",
+				"_collid": "107466129"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Azul"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__original/img/AkbtYVc6xXJF3c9EUrakklcclKw=/0x0/filters:format(png)/pic6973671.png",
+				"thumbnail": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "99064"
+						},
+						"average": {
+							"_value": "7.73184"
+						},
+						"bayesaverage": {
+							"_value": "7.62207"
+						},
+						"stddev": {
+							"_value": "1.16403"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "164250"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:44:22"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "230802",
+				"_subtype": "boardgame",
+				"_collid": "88381134"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "BANG! The Dice Game"
+				},
+				"yearpublished": "2013",
+				"image": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__original/img/3CcRDvDttHpWLP6wc_jZHufTfl4=/0x0/filters:format(jpeg)/pic2909713.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__thumb/img/IijBpyOQC760F6XIw34WT0ePqe4=/fit-in/200x150/filters:strip_icc()/pic2909713.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "25400"
+						},
+						"average": {
+							"_value": "6.88584"
+						},
+						"bayesaverage": {
+							"_value": "6.73145"
+						},
+						"stddev": {
+							"_value": "1.32338"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "8",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "41148"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:26:18"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "143741",
+				"_subtype": "boardgame",
+				"_collid": "88380795"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Betrayal at House on the Hill"
+				},
+				"yearpublished": "2004",
+				"image": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__original/img/7R6yYk8A2eUMmSDaxGjae5SceGI=/0x0/filters:format(png)/pic5146864.png",
+				"thumbnail": "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "48113"
+						},
+						"average": {
+							"_value": "7.01667"
+						},
+						"bayesaverage": {
+							"_value": "6.79915"
+						},
+						"stddev": {
+							"_value": "1.59564"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "6",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "82689"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-27 11:32:17"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "10547",
+				"_subtype": "boardgame",
+				"_collid": "107706065"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Between Two Cities"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__original/img/Z1jHr2yyOS982h3F5IktoEYTxeU=/0x0/filters:format(jpeg)/pic6352795.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__thumb/img/BaLQhhGkNB6LaNqGnaNzz88GLOA=/fit-in/200x150/filters:strip_icc()/pic6352795.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "11551"
+						},
+						"average": {
+							"_value": "6.97446"
+						},
+						"bayesaverage": {
+							"_value": "6.7199"
+						},
+						"stddev": {
+							"_value": "1.21824"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "7",
+					"_minplaytime": "25",
+					"_maxplaytime": "25",
+					"_playingtime": "25",
+					"_numowned": "14268"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:05:41"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "168435",
+				"_subtype": "boardgame",
+				"_collid": "79221096"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Biblios"
+				},
+				"yearpublished": "2007",
+				"image": "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__original/img/jOmzNb1JROlzeqEmCDScX_IkHVU=/0x0/filters:format(jpeg)/pic759154.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__thumb/img/BYid-ptJy9xNI_kK3IDWOGLWJVM=/fit-in/200x150/filters:strip_icc()/pic759154.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "18050"
+						},
+						"average": {
+							"_value": "7.19703"
+						},
+						"bayesaverage": {
+							"_value": "6.99729"
+						},
+						"stddev": {
+							"_value": "1.18695"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "22218"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 14:02:17"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "34219",
+				"_subtype": "boardgame",
+				"_collid": "41999036"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Carcassonne"
+				},
+				"yearpublished": "2000",
+				"image": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__original/img/aVZEXAI-cUtuunNfPhjeHlS4fwQ=/0x0/filters:format(png)/pic6544250.png",
+				"thumbnail": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "133086"
+						},
+						"average": {
+							"_value": "7.41253"
+						},
+						"bayesaverage": {
+							"_value": "7.29715"
+						},
+						"stddev": {
+							"_value": "1.31063"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "208975"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:11:34"
+				},
+				"numplays": "0",
+				"comment": "I like the building aspect, is one of the only game I can convince my partner to play easily",
+				"_objecttype": "thing",
+				"_objectid": "822",
+				"_subtype": "boardgame",
+				"_collid": "41636979"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Cartographers"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo=/0x0/filters:format(png)/pic4397932.png",
+				"thumbnail": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE=/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "32924"
+						},
+						"average": {
+							"_value": "7.57664"
+						},
+						"bayesaverage": {
+							"_value": "7.40759"
+						},
+						"stddev": {
+							"_value": "1.15854"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "100",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "57025"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:46:17"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "263918",
+				"_subtype": "boardgame",
+				"_collid": "107464973"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Cascadia"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ=/0x0/filters:format(jpeg)/pic5100691.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "47050"
+						},
+						"average": {
+							"_value": "7.91831"
+						},
+						"bayesaverage": {
+							"_value": "7.75225"
+						},
+						"stddev": {
+							"_value": "1.13066"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "78558"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-27 11:35:15"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "295947",
+				"_subtype": "boardgame",
+				"_collid": "107464846"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Century: Golem Edition"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/1bihoShOuqaCuZJXB3Q2gQ__original/img/fvGzpqyud6Oz1BWOe4gItWWb8P0=/0x0/filters:format(jpeg)/pic3936124.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/1bihoShOuqaCuZJXB3Q2gQ__thumb/img/dvGQkdnwtcwAmcxHR_7J17OsLjQ=/fit-in/200x150/filters:strip_icc()/pic3936124.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "13224"
+						},
+						"average": {
+							"_value": "7.5843"
+						},
+						"bayesaverage": {
+							"_value": "7.23808"
+						},
+						"stddev": {
+							"_value": "1.20714"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "20304"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:07:58"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "232832",
+				"_subtype": "boardgame",
+				"_collid": "88378049"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Century: Golem Edition – Eastern Mountains"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/wJHk5zoBJkl2Lla3f1oYyg__original/img/2QnQILVardOEPw13O-vvQ-NM3ZQ=/0x0/filters:format(jpeg)/pic4821733.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/wJHk5zoBJkl2Lla3f1oYyg__thumb/img/owKUbUpP_Z-vyr4jgHd50Q49dJE=/fit-in/200x150/filters:strip_icc()/pic4821733.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1895"
+						},
+						"average": {
+							"_value": "7.3334"
+						},
+						"bayesaverage": {
+							"_value": "6.31922"
+						},
+						"stddev": {
+							"_value": "1.11505"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "5826"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:07:27"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "283619",
+				"_subtype": "boardgame",
+				"_collid": "88380203"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Chronicles of Crime"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__original/img/3OigysLof9HIk4jvV79Cm-tb-gY=/0x0/filters:format(jpeg)/pic4317519.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__thumb/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "23792"
+						},
+						"average": {
+							"_value": "7.55834"
+						},
+						"bayesaverage": {
+							"_value": "7.18029"
+						},
+						"stddev": {
+							"_value": "1.44591"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "39625"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:49:41"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "239188",
+				"_subtype": "boardgame",
+				"_collid": "107465090"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Clank! In! Space!: A Deck-Building Adventure"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/haDQw7X8Z0VOItfow9eDtg__original/img/Gq7eW_IFnUgIFcWcZSbWihAzdTs=/0x0/filters:format(jpeg)/pic3720843.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/haDQw7X8Z0VOItfow9eDtg__thumb/img/mn9ypbuCR2pwOSvor46QRXgVImM=/fit-in/200x150/filters:strip_icc()/pic3720843.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "15298"
+						},
+						"average": {
+							"_value": "7.77168"
+						},
+						"bayesaverage": {
+							"_value": "7.44341"
+						},
+						"stddev": {
+							"_value": "1.20968"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "22299"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:40:28"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "233371",
+				"_subtype": "boardgame",
+				"_collid": "107466336"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Codenames"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__original/img/gcX_EfjsRpB5fI4Ug4XV73G4jGI=/0x0/filters:format(jpeg)/pic2582929.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "97757"
+						},
+						"average": {
+							"_value": "7.53398"
+						},
+						"bayesaverage": {
+							"_value": "7.43871"
+						},
+						"stddev": {
+							"_value": "1.30324"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "8",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "166641"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:10:13"
+				},
+				"numplays": "0",
+				"comment": "each time we play this game we have a blast",
+				"_objecttype": "thing",
+				"_objectid": "178900",
+				"_subtype": "boardgame",
+				"_collid": "41636884"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Codenames: Deep Undercover"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/Hnxruo8BBx73kd4TCZQdYg__original/img/1vLShAQ6FSqcnDF5ik_7bUAFjGQ=/0x0/filters:format(jpeg)/pic4390414.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/Hnxruo8BBx73kd4TCZQdYg__thumb/img/kKE4VDsVRyDbQFxNLNzIIl-L85w=/fit-in/200x150/filters:strip_icc()/pic4390414.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "3784"
+						},
+						"average": {
+							"_value": "6.57376"
+						},
+						"bayesaverage": {
+							"_value": "6.1511"
+						},
+						"stddev": {
+							"_value": "1.60133"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "5"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "8",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "9777"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:53:55"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "205158",
+				"_subtype": "boardgame",
+				"_collid": "91619446"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Codenames: Pictures"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__original/img/i4FVjrk9TtmvVlVK7NtwRqgOxdQ=/0x0/filters:format(jpeg)/pic3476592.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "23938"
+						},
+						"average": {
+							"_value": "7.18251"
+						},
+						"bayesaverage": {
+							"_value": "7.0056"
+						},
+						"stddev": {
+							"_value": "1.27933"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "8",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "42574"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-01-20 14:36:05"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "198773",
+				"_subtype": "boardgame",
+				"_collid": "78632309"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Concept"
+				},
+				"yearpublished": "2013",
+				"image": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__original/img/vbR7Wrdlq4fPcwUE1Ck9CowlJHY=/0x0/filters:format(jpeg)/pic4991925.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/hHFs0_KRoW_FJ0cMIVgZcw__thumb/img/1MmGQvJVNw8TA7eWAJ8oIK-ZENc=/fit-in/200x150/filters:strip_icc()/pic4991925.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "21197"
+						},
+						"average": {
+							"_value": "6.75285"
+						},
+						"bayesaverage": {
+							"_value": "6.59431"
+						},
+						"stddev": {
+							"_value": "1.39239"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "12",
+					"_minplaytime": "40",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "35335"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-11 13:42:00"
+				},
+				"numplays": "0",
+				"comment": "My group like it but I find it a little too frustrating when you can't talk and they are not getting what you doing, I played it only once and have to give it one more chance",
+				"_objecttype": "thing",
+				"_objectid": "147151",
+				"_subtype": "boardgame",
+				"_collid": "41636803"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Connected Clues"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/6tqXmJISzIiBV1fSL8efrA__original/img/fa7WwAATeKQVxnOmAsWKcA-yWIg=/0x0/filters:format(jpeg)/pic8322446.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/6tqXmJISzIiBV1fSL8efrA__thumb/img/GXmP_BwHQKF10HGpsLI8ozuicnI=/fit-in/200x150/filters:strip_icc()/pic8322446.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "61"
+						},
+						"average": {
+							"_value": "6.06393"
+						},
+						"bayesaverage": {
+							"_value": "5.51421"
+						},
+						"stddev": {
+							"_value": "1.54071"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "10",
+					"_minplaytime": "10",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "158"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:18:20"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "367197",
+				"_subtype": "boardgame",
+				"_collid": "107465807"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Cosmic Encounter"
+				},
+				"yearpublished": "2008",
+				"image": "https://cf.geekdo-images.com/S8cE-Ld7XP5sVz-upKJ-Bg__original/img/c4ZrfOtpp6tDHLyMsKecc2ne370=/0x0/filters:format(jpeg)/pic1521633.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/S8cE-Ld7XP5sVz-upKJ-Bg__thumb/img/gE--xqnuor4bft2J361zxJJGCjM=/fit-in/200x150/filters:strip_icc()/pic1521633.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "33985"
+						},
+						"average": {
+							"_value": "7.51109"
+						},
+						"bayesaverage": {
+							"_value": "7.32241"
+						},
+						"stddev": {
+							"_value": "1.70048"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "5",
+					"_minplaytime": "60",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "42315"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-01-27 13:05:13"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "39463",
+				"_subtype": "boardgame",
+				"_collid": "57227641"
+			},
+			{
+				"name": {
+					"_sortindex": "5",
+					"__text": "The Crew: The Quest for Planet Nine"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__original/img/Q-ZkgnuBu9OTBr7J3qnqPjqamAE=/0x0/filters:format(jpeg)/pic5687013.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__thumb/img/et-fnuozyOdBOVL-5kSS3_7I8fw=/fit-in/200x150/filters:strip_icc()/pic5687013.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "45147"
+						},
+						"average": {
+							"_value": "7.77866"
+						},
+						"bayesaverage": {
+							"_value": "7.63811"
+						},
+						"stddev": {
+							"_value": "1.315"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "86610"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:10:28"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "284083",
+				"_subtype": "boardgame",
+				"_collid": "78632801"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Crokinole"
+				},
+				"yearpublished": "1876",
+				"image": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__original/img/0E7UQ_sXErRusbZVixlIiN8MIJQ=/0x0/filters:format(jpeg)/pic8549797.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/DOwZ7_Q1w68iBhARcDAxig__thumb/img/nkY1mEj6fItSXJHctfzFcRIcDT0=/fit-in/200x150/filters:strip_icc()/pic8549797.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "19559"
+						},
+						"average": {
+							"_value": "8.05315"
+						},
+						"bayesaverage": {
+							"_value": "7.78596"
+						},
+						"stddev": {
+							"_value": "1.60483"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "18855"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:47:46"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "521",
+				"_subtype": "boardgame",
+				"_collid": "107706182"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Deception: Murder in Hong Kong"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__original/img/ZzyzlO15ggCfkLg9ckeM4PWNePI=/0x0/filters:format(jpeg)/pic3033330.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/1COY3oeK9aN2_XNimKaNww__thumb/img/8IWDjnSYX-tYAVRgfq-W3y1b_Ww=/fit-in/200x150/filters:strip_icc()/pic3033330.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "23896"
+						},
+						"average": {
+							"_value": "7.43395"
+						},
+						"bayesaverage": {
+							"_value": "7.23132"
+						},
+						"stddev": {
+							"_value": "1.33652"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8.5"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "12",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "36008"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2019-01-04 14:45:02"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "156129",
+				"_subtype": "boardgame",
+				"_collid": "44017152"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Decrypto"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__original/img/lL6QJ69UmZT7CeljUcjyA47b-e0=/0x0/filters:format(jpeg)/pic3759421.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/hHZWXnUTMYDd_KTAM6Jwlw__thumb/img/O5XHaPOALYquS058qcXWVm5b_k4=/fit-in/200x150/filters:strip_icc()/pic3759421.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "24962"
+						},
+						"average": {
+							"_value": "7.76627"
+						},
+						"bayesaverage": {
+							"_value": "7.54303"
+						},
+						"stddev": {
+							"_value": "1.26628"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "8",
+					"_minplaytime": "15",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "41115"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-02-25 10:04:02"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "225694",
+				"_subtype": "boardgame",
+				"_collid": "91619186"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Dixit"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/M-VguBWutRerXI4lb0aN2w__original/img/q7DTBNxEkJbXMuePqxTn70qsQ9U=/0x0/filters:format(jpeg)/pic4542991.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/M-VguBWutRerXI4lb0aN2w__thumb/img/HCTSUo9M9gCQlsq5kv7kHUZ9bA4=/fit-in/200x150/filters:strip_icc()/pic4542991.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "67865"
+						},
+						"average": {
+							"_value": "7.19147"
+						},
+						"bayesaverage": {
+							"_value": "7.07692"
+						},
+						"stddev": {
+							"_value": "1.38908"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "8",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "101424"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:52:41"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "39856",
+				"_subtype": "boardgame",
+				"_collid": "88378119"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Downforce"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/c74C-NVJHuMVxt6A_j2TsA__original/img/FHgW4u5dIooEJnNjm2RXcO_yJWs=/0x0/filters:format(png)/pic3432548.png",
+				"thumbnail": "https://cf.geekdo-images.com/c74C-NVJHuMVxt6A_j2TsA__thumb/img/OUdT3uFyqBBzN7q9ZDFN6WBiecU=/fit-in/200x150/filters:strip_icc()/pic3432548.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "14540"
+						},
+						"average": {
+							"_value": "7.27246"
+						},
+						"bayesaverage": {
+							"_value": "7.01174"
+						},
+						"stddev": {
+							"_value": "1.2167"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "6",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "19721"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:35:48"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "215311",
+				"_subtype": "boardgame",
+				"_collid": "88381158"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Dream Runners"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/97xmC95-61HWjHAzLE0x2g__original/img/wfGM_eD8RIKmMzvcxUBxhkHIE80=/0x0/filters:format(jpeg)/pic5215940.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/97xmC95-61HWjHAzLE0x2g__thumb/img/uMBLioh5tya5oh6R5_iLRJkpi04=/fit-in/200x150/filters:strip_icc()/pic5215940.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "267"
+						},
+						"average": {
+							"_value": "6.96653"
+						},
+						"bayesaverage": {
+							"_value": "5.64934"
+						},
+						"stddev": {
+							"_value": "1.15545"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "640"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:58:14"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "301002",
+				"_subtype": "boardgame",
+				"_collid": "132042312"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Everdell"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__original/img/HQ1ti16wT9lqja5_h3gUfHUIcVI=/0x0/filters:format(png)/pic3918905.png",
+				"thumbnail": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__thumb/img/Cf_mYxR_VvdjTEPXseSurni2JNI=/fit-in/200x150/filters:strip_icc()/pic3918905.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "61505"
+						},
+						"average": {
+							"_value": "8.00347"
+						},
+						"bayesaverage": {
+							"_value": "7.82693"
+						},
+						"stddev": {
+							"_value": "1.30144"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "40",
+					"_maxplaytime": "80",
+					"_playingtime": "80",
+					"_numowned": "93839"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:43:11"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "199792",
+				"_subtype": "boardgame",
+				"_collid": "107464820"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Five Crowns"
+				},
+				"yearpublished": "1996",
+				"image": "https://cf.geekdo-images.com/sPc6K1gC--QrGHkdCmD8MQ__original/img/oWAwl_4jKymtzwQ2TyuWPKJKITo=/0x0/filters:format(jpeg)/pic2869930.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/sPc6K1gC--QrGHkdCmD8MQ__thumb/img/hUdAKijhrkT8hjMHNO5LIS7fDJI=/fit-in/200x150/filters:strip_icc()/pic2869930.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "3876"
+						},
+						"average": {
+							"_value": "6.11154"
+						},
+						"bayesaverage": {
+							"_value": "5.83004"
+						},
+						"stddev": {
+							"_value": "1.68505"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "7",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "10644"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:29:33"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "1472",
+				"_subtype": "boardgame",
+				"_collid": "107466078"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Flamecraft"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__original/img/7yj8nA0ObuZ1w5AYCThEOK6meWA=/0x0/filters:format(jpeg)/pic6605448.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__thumb/img/bQcyvzYRdMFFvcdQkFVnIRiCPjE=/fit-in/200x150/filters:strip_icc()/pic6605448.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "17582"
+						},
+						"average": {
+							"_value": "7.40584"
+						},
+						"bayesaverage": {
+							"_value": "7.09952"
+						},
+						"stddev": {
+							"_value": "1.32867"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "37243"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:54:19"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "336986",
+				"_subtype": "boardgame",
+				"_collid": "132042192"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Flash Point: Fire Rescue"
+				},
+				"yearpublished": "2011",
+				"image": "https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__original/img/ri91i22ujLCZqxXKhFIdVDPGe8Y=/0x0/filters:format(jpeg)/pic1129370.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/v6bTbxeprDFj1nN4AenvjA__thumb/img/7AyBFA8JfZHKxC5ntwOjJTbIgWE=/fit-in/200x150/filters:strip_icc()/pic1129370.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "24846"
+						},
+						"average": {
+							"_value": "7.14993"
+						},
+						"bayesaverage": {
+							"_value": "6.97658"
+						},
+						"stddev": {
+							"_value": "1.25632"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "6",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "39773"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:53:09"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "100901",
+				"_subtype": "boardgame",
+				"_collid": "78633356"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Forbidden Desert"
+				},
+				"yearpublished": "2013",
+				"image": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__original/img/8smpJMuHROyrbu8FP-EOLXjEi0w=/0x0/filters:format(jpeg)/pic1528722.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__thumb/img/eDUA8LpBqRjlzJWJYIsIenpF_rA=/fit-in/200x150/filters:strip_icc()/pic1528722.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "31980"
+						},
+						"average": {
+							"_value": "7.06713"
+						},
+						"bayesaverage": {
+							"_value": "6.92195"
+						},
+						"stddev": {
+							"_value": "1.18817"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "56658"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-27 11:34:25"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "136063",
+				"_subtype": "boardgame",
+				"_collid": "107465232"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Forbidden Island"
+				},
+				"yearpublished": "2010",
+				"image": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__original/img/H5d4I5z_HSpPEu7EAl0DqLt9_pM=/0x0/filters:format(jpeg)/pic646458.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__thumb/img/5aPR8-KMbgucI_XkPE2PJaMQQsg=/fit-in/200x150/filters:strip_icc()/pic646458.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "52661"
+						},
+						"average": {
+							"_value": "6.75433"
+						},
+						"bayesaverage": {
+							"_value": "6.64699"
+						},
+						"stddev": {
+							"_value": "1.22026"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "96477"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-04 11:26:35"
+				},
+				"numplays": "0",
+				"comment": "I like this game it is fun, I like the idea of this island sinking",
+				"_objecttype": "thing",
+				"_objectid": "65244",
+				"_subtype": "boardgame",
+				"_collid": "41636677"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Fort"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__original/img/YSzUnMqcnTg-mSk8VEnBQaRRmJU=/0x0/filters:format(png)/pic5241325.png",
+				"thumbnail": "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__thumb/img/YqmIsRVLpQqM-r5i1rsN91Q6fzg=/fit-in/200x150/filters:strip_icc()/pic5241325.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "10889"
+						},
+						"average": {
+							"_value": "7.08225"
+						},
+						"bayesaverage": {
+							"_value": "6.77654"
+						},
+						"stddev": {
+							"_value": "1.25372"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "20609"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:57:28"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "296912",
+				"_subtype": "boardgame",
+				"_collid": "88379395"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Friday"
+				},
+				"yearpublished": "2011",
+				"image": "https://cf.geekdo-images.com/7bBUuYUIyKIBDh_UnNa_Fw__original/img/_tiZYJMEc26kgt7uNF6IM8A-8As=/0x0/filters:format(jpeg)/pic1513328.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/7bBUuYUIyKIBDh_UnNa_Fw__thumb/img/Bjg_3ovfjRqjGtYEaEj6107UGWY=/fit-in/200x150/filters:strip_icc()/pic1513328.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "22255"
+						},
+						"average": {
+							"_value": "7.11289"
+						},
+						"bayesaverage": {
+							"_value": "6.93129"
+						},
+						"stddev": {
+							"_value": "1.23594"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "1",
+					"_minplaytime": "25",
+					"_maxplaytime": "25",
+					"_playingtime": "25",
+					"_numowned": "39733"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-07-24 10:16:30"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "43570",
+				"_subtype": "boardgame",
+				"_collid": "44017104"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Frosthaven"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__original/img/Tk7wFDJuaU8RPjNkmyC3AWYOPpU=/0x0/filters:format(png)/pic5092291.png",
+				"thumbnail": "https://cf.geekdo-images.com/cwUgf-f-qwri8UHBUnifuQ__thumb/img/3o2Hc_N5mmfpOt8s9kP0ap8Jti8=/fit-in/200x150/filters:strip_icc()/pic5092291.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "8549"
+						},
+						"average": {
+							"_value": "8.78927"
+						},
+						"bayesaverage": {
+							"_value": "7.94969"
+						},
+						"stddev": {
+							"_value": "1.94859"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "90",
+					"_maxplaytime": "180",
+					"_playingtime": "180",
+					"_numowned": "21257"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:44:45"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "295770",
+				"_subtype": "boardgame",
+				"_collid": "107464894"
+			},
+			{
+				"name": {
+					"_sortindex": "5",
+					"__text": "The Game"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__original/img/ZcwvBXraym0wfre1sm9t1d44BBA=/0x0/filters:format(png)/pic4203279.png",
+				"thumbnail": "https://cf.geekdo-images.com/g4pn1ieUKfIhERl5Ym6joQ__thumb/img/IRLfNA-yFg0etLOeNFp7QKFsea4=/fit-in/200x150/filters:strip_icc()/pic4203279.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "12900"
+						},
+						"average": {
+							"_value": "6.71162"
+						},
+						"bayesaverage": {
+							"_value": "6.501"
+						},
+						"stddev": {
+							"_value": "1.33806"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "23362"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:03:55"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "173090",
+				"_subtype": "boardgame",
+				"_collid": "107465480"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Gloomhaven"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__original/img/7d-lj5Gd1e8PFnD97LYFah2c45M=/0x0/filters:format(jpeg)/pic2437871.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__thumb/img/veqFeP4d_3zNhFc3GNBkV95rBEQ=/fit-in/200x150/filters:strip_icc()/pic2437871.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "64759"
+						},
+						"average": {
+							"_value": "8.56487"
+						},
+						"bayesaverage": {
+							"_value": "8.32685"
+						},
+						"stddev": {
+							"_value": "1.73659"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "100938"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-01-20 13:51:20"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "174430",
+				"_subtype": "boardgame",
+				"_collid": "57227942"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Gloomhaven: Jaws of the Lion"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__original/img/PBzsLRqNKQKJxGnzpb7o3qLWPQM=/0x0/filters:format(jpeg)/pic5055631.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__thumb/img/OMkN_E5eyWrkID_cHCnQEbIixGM=/fit-in/200x150/filters:strip_icc()/pic5055631.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "37700"
+						},
+						"average": {
+							"_value": "8.39658"
+						},
+						"bayesaverage": {
+							"_value": "8.1297"
+						},
+						"stddev": {
+							"_value": "1.47076"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "10"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "81974"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:09:43"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "291457",
+				"_subtype": "boardgame",
+				"_collid": "88377799"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Green Team Wins"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/CnbTdFLjxjuvX_HXgIDYGw__original/img/LGP4yQrZC_67Z2cerjV1ph7ggwQ=/0x0/filters:format(png)/pic6691185.png",
+				"thumbnail": "https://cf.geekdo-images.com/CnbTdFLjxjuvX_HXgIDYGw__thumb/img/Xo93w8kwKWbYS-NwE_4XGD6XhQE=/fit-in/200x150/filters:strip_icc()/pic6691185.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2195"
+						},
+						"average": {
+							"_value": "7.03409"
+						},
+						"bayesaverage": {
+							"_value": "6.26672"
+						},
+						"stddev": {
+							"_value": "1.21022"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "12",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "5072"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:01:35"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "347805",
+				"_subtype": "boardgame",
+				"_collid": "132042390"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Hand-to-Hand Wombat"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/U36U-SQTKgW8nsnWiP2A-Q__original/img/_3sViMgTxfyppzOVXDl2a9TjCHI=/0x0/filters:format(png)/pic6700025.png",
+				"thumbnail": "https://cf.geekdo-images.com/U36U-SQTKgW8nsnWiP2A-Q__thumb/img/T2FChBbGSAcr_m1W3xkg1g-2oas=/fit-in/200x150/filters:strip_icc()/pic6700025.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "959"
+						},
+						"average": {
+							"_value": "6.22913"
+						},
+						"bayesaverage": {
+							"_value": "5.69696"
+						},
+						"stddev": {
+							"_value": "1.60826"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "6",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "3200"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:02:59"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "356909",
+				"_subtype": "boardgame",
+				"_collid": "132042427"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Harry Potter: Hogwarts Battle"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__original/img/7ifajkbPyvyn8GUavbNOjWZbNYU=/0x0/filters:format(jpeg)/pic3518231.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/ugYBvYxyWyx8_BqaFKZlGw__thumb/img/dMUeyEvlaSp_x0EoQBuCHfwFCtM=/fit-in/200x150/filters:strip_icc()/pic3518231.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "20698"
+						},
+						"average": {
+							"_value": "7.35659"
+						},
+						"bayesaverage": {
+							"_value": "7.07125"
+						},
+						"stddev": {
+							"_value": "1.41264"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "42840"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:52:46"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "199042",
+				"_subtype": "boardgame",
+				"_collid": "78633320"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Herd Mentality"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__original/img/QPcr2EfpZjJzvNGjfQZwRbs-kMo=/0x0/filters:format(png)/pic5509026.png",
+				"thumbnail": "https://cf.geekdo-images.com/85hYrpSl9Aoh2TgMf4CiDA__thumb/img/b4cbnSNGps3koFIZKsh2ThZwV8E=/fit-in/200x150/filters:strip_icc()/pic5509026.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2737"
+						},
+						"average": {
+							"_value": "6.63071"
+						},
+						"bayesaverage": {
+							"_value": "6.09188"
+						},
+						"stddev": {
+							"_value": "1.36888"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "20",
+					"_minplaytime": "20",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "7204"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:18:01"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "311322",
+				"_subtype": "boardgame",
+				"_collid": "107465797"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Here to Slay"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/ozUv3be9fcf28tJk30bNow__original/img/digC3cWVMhV6rlcE0AEcoVkmVI0=/0x0/filters:format(jpeg)/pic5181432.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/ozUv3be9fcf28tJk30bNow__thumb/img/H-JU6r_wjLQTmAV4gX9pQbiT6_U=/fit-in/200x150/filters:strip_icc()/pic5181432.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "7551"
+						},
+						"average": {
+							"_value": "6.89201"
+						},
+						"bayesaverage": {
+							"_value": "6.4129"
+						},
+						"stddev": {
+							"_value": "1.52442"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "6",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "21228"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:59:06"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "299252",
+				"_subtype": "boardgame",
+				"_collid": "132042334"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Hues and Cues"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__original/img/i8nlw_c9CYgJMzixadYVh7GTTPc=/0x0/filters:format(jpeg)/pic5390676.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__thumb/img/EJ5gcczwsYvSavYuO4UoNPS45vo=/fit-in/200x150/filters:strip_icc()/pic5390676.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "5301"
+						},
+						"average": {
+							"_value": "6.52416"
+						},
+						"bayesaverage": {
+							"_value": "6.16307"
+						},
+						"stddev": {
+							"_value": "1.40175"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "10",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "11973"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:00:08"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "302520",
+				"_subtype": "boardgame",
+				"_collid": "132042362"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "ICECOOL"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__original/img/rIyNSXqNgGs4Yqt0xL5CdTp9grg=/0x0/filters:format(png)/pic3320017.png",
+				"thumbnail": "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__thumb/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "11740"
+						},
+						"average": {
+							"_value": "6.78782"
+						},
+						"bayesaverage": {
+							"_value": "6.55847"
+						},
+						"stddev": {
+							"_value": "1.2618"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "19604"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:01:06"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "177524",
+				"_subtype": "boardgame",
+				"_collid": "107465411"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Junk Art"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/5VDnpX_3ykgCjTJSmHdfCA__original/img/jb13nJHqbMmoK0P9gpjGaVu8v3U=/0x0/filters:format(jpeg)/pic2884509.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/5VDnpX_3ykgCjTJSmHdfCA__thumb/img/LLHF9t1MxB0m-NBe_C9cxAyIslA=/fit-in/200x150/filters:strip_icc()/pic2884509.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "7937"
+						},
+						"average": {
+							"_value": "7.36314"
+						},
+						"bayesaverage": {
+							"_value": "6.92619"
+						},
+						"stddev": {
+							"_value": "1.24398"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "6",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "11864"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-01-20 14:37:25"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "193042",
+				"_subtype": "boardgame",
+				"_collid": "78632300"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Just One"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/qKcKjHpzAvLddwBhyindag__original/img/NPUrOSJ5NEC7aPkoEXnTHJ7vICU=/0x0/filters:format(jpeg)/pic4268499.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/qKcKjHpzAvLddwBhyindag__thumb/img/HhZu2qLp9wyX9PNgvmDE8_hCl-0=/fit-in/200x150/filters:strip_icc()/pic4268499.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "31309"
+						},
+						"average": {
+							"_value": "7.60016"
+						},
+						"bayesaverage": {
+							"_value": "7.43897"
+						},
+						"stddev": {
+							"_value": "1.20474"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "7",
+					"_minplaytime": "20",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "53631"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:16:30"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "254640",
+				"_subtype": "boardgame",
+				"_collid": "78632319"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Kabuto Sumo"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/fG4GxTHRYGasb0WYE-udJQ__original/img/uenvywev5fgsuZZqCmMTDAY-MLQ=/0x0/filters:format(jpeg)/pic6256515.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/fG4GxTHRYGasb0WYE-udJQ__thumb/img/VxiuAUI5idseMgx-yLPKgnsnlsY=/fit-in/200x150/filters:strip_icc()/pic6256515.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "3621"
+						},
+						"average": {
+							"_value": "6.74156"
+						},
+						"bayesaverage": {
+							"_value": "6.25035"
+						},
+						"stddev": {
+							"_value": "1.31677"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "8207"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:16:40"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "320390",
+				"_subtype": "boardgame",
+				"_collid": "107465760"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Loaded Questions: Adult Version"
+				},
+				"yearpublished": "2007",
+				"image": "https://cf.geekdo-images.com/mLmi0JzTNv3wGgydLRvyDg__original/img/xzqkAW9MDv98eUJafPZ9HZupWUg=/0x0/filters:format(jpeg)/pic192353.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/mLmi0JzTNv3wGgydLRvyDg__thumb/img/JEFlSNLUcfrkcArt39dMDGh-f2w=/fit-in/200x150/filters:strip_icc()/pic192353.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "192"
+						},
+						"average": {
+							"_value": "5.49245"
+						},
+						"bayesaverage": {
+							"_value": "5.48381"
+						},
+						"stddev": {
+							"_value": "1.77522"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "6",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "643"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-03 16:00:08"
+				},
+				"numplays": "0",
+				"comment": "that one going to depend of the group. I don't think the \"Adult version\" is really necessary but we always have fun with this one",
+				"_objecttype": "thing",
+				"_objectid": "28508",
+				"_subtype": "boardgame",
+				"_collid": "41637017"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Lost Ruins of Arnak"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__original/img/CXqwimJPonWy1oyXEMgPN_ZVmUI=/0x0/filters:format(jpeg)/pic5674958.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__thumb/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "50074"
+						},
+						"average": {
+							"_value": "8.07097"
+						},
+						"bayesaverage": {
+							"_value": "7.89946"
+						},
+						"stddev": {
+							"_value": "1.25246"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "120",
+					"_playingtime": "120",
+					"_numowned": "75935"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:46:24"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "312484",
+				"_subtype": "boardgame",
+				"_collid": "132041979"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Love Letter"
+				},
+				"yearpublished": "2012",
+				"image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__original/img/xIAzJY7rl-mtPStRZSqnTVsAr8Y=/0x0/filters:format(jpeg)/pic1401448.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "69778"
+						},
+						"average": {
+							"_value": "7.22576"
+						},
+						"bayesaverage": {
+							"_value": "7.12411"
+						},
+						"stddev": {
+							"_value": "1.35106"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "114420"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:19:30"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "129622",
+				"_subtype": "boardgame",
+				"_collid": "88378105"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Mansions of Madness: Second Edition"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__original/img/Go6c8-ZiXomS8E7X4MBCdDd-aZc=/0x0/filters:format(jpeg)/pic3118622.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__thumb/img/kwaa7aI2sMeyWV5JSRKcKrS5hC8=/fit-in/200x150/filters:strip_icc()/pic3118622.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "38375"
+						},
+						"average": {
+							"_value": "7.92893"
+						},
+						"bayesaverage": {
+							"_value": "7.69537"
+						},
+						"stddev": {
+							"_value": "1.50541"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "120",
+					"_maxplaytime": "180",
+					"_playingtime": "180",
+					"_numowned": "62112"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:48:26"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "205059",
+				"_subtype": "boardgame",
+				"_collid": "132042032"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Marvel United"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__original/img/zgZcNusSm7mFMP3N6MJvJRe_gKY=/0x0/filters:format(jpeg)/pic5231006.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__thumb/img/T3jn8ks3g0zLyISTRQkIr0D1WSE=/fit-in/200x150/filters:strip_icc()/pic5231006.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "12081"
+						},
+						"average": {
+							"_value": "7.56473"
+						},
+						"bayesaverage": {
+							"_value": "7.18158"
+						},
+						"stddev": {
+							"_value": "1.37378"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "40",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "26790"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:51:25"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "298047",
+				"_subtype": "boardgame",
+				"_collid": "107465125"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Marvel United: X-Men"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/McQXSQjyTtrqpGA77GSRxg__original/img/Z6Bl-Nc4XfMk3Su5-Qa3C3fBbFw=/0x0/filters:format(jpeg)/pic6245965.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/McQXSQjyTtrqpGA77GSRxg__thumb/img/B9JPUoNVJHJfo2OCDB51BTNuidk=/fit-in/200x150/filters:strip_icc()/pic6245965.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "4163"
+						},
+						"average": {
+							"_value": "8.02738"
+						},
+						"bayesaverage": {
+							"_value": "7.08468"
+						},
+						"stddev": {
+							"_value": "1.28238"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "40",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "12482"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:55:00"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "336382",
+				"_subtype": "boardgame",
+				"_collid": "107465227"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Marvel Zombies: A Zombicide Game"
+				},
+				"yearpublished": "2023",
+				"image": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__original/img/o3-QpsK2whgEm0teQ3IqwoC9zyk=/0x0/filters:format(jpeg)/pic6619019.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/1nxn5PtVk-cbS3tHDg4Xlg__thumb/img/vSamcRiZrL_RSpCkeCwL2sotMCw=/fit-in/200x150/filters:strip_icc()/pic6619019.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2342"
+						},
+						"average": {
+							"_value": "7.95098"
+						},
+						"bayesaverage": {
+							"_value": "6.64689"
+						},
+						"stddev": {
+							"_value": "1.7362"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "6",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "7347"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2024-01-24 11:46:42"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "351817",
+				"_subtype": "boardgame",
+				"_collid": "115471473"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Meadow"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__original/img/tHQTKwwk4N8J5fpWhsoE8t0FQhw=/0x0/filters:format(jpeg)/pic5894745.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__thumb/img/tugW5aKyC6Vs31QaBX8YvmQiPTQ=/fit-in/200x150/filters:strip_icc()/pic5894745.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "12213"
+						},
+						"average": {
+							"_value": "7.71929"
+						},
+						"bayesaverage": {
+							"_value": "7.33363"
+						},
+						"stddev": {
+							"_value": "1.21501"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "23149"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:51:48"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "314491",
+				"_subtype": "boardgame",
+				"_collid": "107465068"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Mountain Goats"
+				},
+				"yearpublished": "2010",
+				"image": "https://cf.geekdo-images.com/p4DD5TGFNFQy_ayFtT-x_A__original/img/o8zVhEu7BaQo1sE9jH-yu2YBE_4=/0x0/filters:format(jpeg)/pic5313595.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/p4DD5TGFNFQy_ayFtT-x_A__thumb/img/NuH7OkL_qhJtS1QORYrHVE1dCl8=/fit-in/200x150/filters:strip_icc()/pic5313595.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "4467"
+						},
+						"average": {
+							"_value": "6.80008"
+						},
+						"bayesaverage": {
+							"_value": "6.35082"
+						},
+						"stddev": {
+							"_value": "1.23248"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "8262"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:15:43"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "63975",
+				"_subtype": "boardgame",
+				"_collid": "107465733"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Muse"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__original/img/PD8dhfO_eTUCZrAxFt_ihXOg3Ig=/0x0/filters:format(jpeg)/pic3719954.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__thumb/img/YmT4zvKoAkhx62AGUdeylS7mQig=/fit-in/200x150/filters:strip_icc()/pic3719954.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2416"
+						},
+						"average": {
+							"_value": "6.5892"
+						},
+						"bayesaverage": {
+							"_value": "6.04852"
+						},
+						"stddev": {
+							"_value": "1.32778"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "12",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "4891"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2019-01-04 14:47:11"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "234396",
+				"_subtype": "boardgame",
+				"_collid": "57227591"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Mysterium"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__original/img/6igmXolQesapNU9yEnexip6m9B8=/0x0/filters:format(jpeg)/pic8625343.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__thumb/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "46562"
+						},
+						"average": {
+							"_value": "7.20365"
+						},
+						"bayesaverage": {
+							"_value": "7.06275"
+						},
+						"stddev": {
+							"_value": "1.38829"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "7",
+					"_minplaytime": "42",
+					"_maxplaytime": "42",
+					"_playingtime": "42",
+					"_numowned": "78347"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2019-01-04 14:45:23"
+				},
+				"numplays": "0",
+				"comment": "I really like this game, I wish we play this more often",
+				"_objecttype": "thing",
+				"_objectid": "181304",
+				"_subtype": "boardgame",
+				"_collid": "41636631"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Nidavellir"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__original/img/KYzd3fBTCxrRxEvNvzabNbll7Wg=/0x0/filters:format(jpeg)/pic5039625.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__thumb/img/jV7kN2k9IkGKLhus2FJ5_VP9awc=/fit-in/200x150/filters:strip_icc()/pic5039625.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "14935"
+						},
+						"average": {
+							"_value": "7.57052"
+						},
+						"bayesaverage": {
+							"_value": "7.27831"
+						},
+						"stddev": {
+							"_value": "1.14948"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "19427"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:48:07"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "293014",
+				"_subtype": "boardgame",
+				"_collid": "107465054"
+			},
+			{
+				"name": {
+					"_sortindex": "5",
+					"__text": "The Night Cage"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/txQ7QzbQz89AO5BmVv7OqA__original/img/sj4Qg_VXKyNZFLftFjRv7p4-RKk=/0x0/filters:format(png)/pic5331288.png",
+				"thumbnail": "https://cf.geekdo-images.com/txQ7QzbQz89AO5BmVv7OqA__thumb/img/sneKRoRyk2ylPHxapTVVu66XbH4=/fit-in/200x150/filters:strip_icc()/pic5331288.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2723"
+						},
+						"average": {
+							"_value": "7.11755"
+						},
+						"bayesaverage": {
+							"_value": "6.30472"
+						},
+						"stddev": {
+							"_value": "1.45869"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "40",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "7031"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:59:24"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "306709",
+				"_subtype": "boardgame",
+				"_collid": "132042342"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Off Topic"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/KmyVGhTiX4Y9rErKdn1GaA__original/img/Pd2qCT7PjFQHBAQZtEI_fSMF-Ps=/0x0/filters:format(jpeg)/pic5913698.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/KmyVGhTiX4Y9rErKdn1GaA__thumb/img/Gc_ss4Eu1gyRUIO9g5Sadh6Vmco=/fit-in/200x150/filters:strip_icc()/pic5913698.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "75"
+						},
+						"average": {
+							"_value": "5.90622"
+						},
+						"bayesaverage": {
+							"_value": "5.50663"
+						},
+						"stddev": {
+							"_value": "1.64887"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "10",
+					"_minplaytime": "30",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "296"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:24:31"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "320043",
+				"_subtype": "boardgame",
+				"_collid": "88380744"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "One Night Ultimate Werewolf"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__original/img/eOxUlbCuix0lOjuyBYpjtIXVihc=/0x0/filters:format(png)/pic8783294.png",
+				"thumbnail": "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__thumb/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "29339"
+						},
+						"average": {
+							"_value": "7.04279"
+						},
+						"bayesaverage": {
+							"_value": "6.86769"
+						},
+						"stddev": {
+							"_value": "1.61423"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "10",
+					"_minplaytime": "10",
+					"_maxplaytime": "10",
+					"_playingtime": "10",
+					"_numowned": "55448"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:20:17"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "147949",
+				"_subtype": "boardgame",
+				"_collid": "78633389"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "One Night Ultimate Werewolf: Daybreak"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/-jMVcPlkpLcs-2nA_htb8g__original/img/akA2sjnFZ_b4DVAF4H-G5pK4m5Q=/0x0/filters:format(jpeg)/pic2225958.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/-jMVcPlkpLcs-2nA_htb8g__thumb/img/W-6ZwWzAaqQw5CGziy7caBAZzQg=/fit-in/200x150/filters:strip_icc()/pic2225958.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "6226"
+						},
+						"average": {
+							"_value": "7.28088"
+						},
+						"bayesaverage": {
+							"_value": "6.77188"
+						},
+						"stddev": {
+							"_value": "1.51061"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "10",
+					"_minplaytime": "10",
+					"_maxplaytime": "10",
+					"_playingtime": "10",
+					"_numowned": "16234"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:20:34"
+				},
+				"numplays": "0",
+				"comment": "surprisingly I find it almost has fun as other hidden role but so much quicker",
+				"_objecttype": "thing",
+				"_objectid": "163166",
+				"_subtype": "boardgame",
+				"_collid": "41653387"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Onirim"
+				},
+				"yearpublished": "2010",
+				"image": "https://cf.geekdo-images.com/qBmiZPJMaU2fhi-SoU3KWA__original/img/ojEvjwqcPEwzAEcOHn0QZmO1_Zg=/0x0/filters:format(jpeg)/pic730580.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/qBmiZPJMaU2fhi-SoU3KWA__thumb/img/ClPmbYlpYSlzDaXqROz3jTweM2o=/fit-in/200x150/filters:strip_icc()/pic730580.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "6682"
+						},
+						"average": {
+							"_value": "6.63145"
+						},
+						"bayesaverage": {
+							"_value": "6.32766"
+						},
+						"stddev": {
+							"_value": "1.37694"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "2",
+					"_minplaytime": "15",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "9094"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-07-24 10:15:18"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "71836",
+				"_subtype": "boardgame",
+				"_collid": "41999028"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pandemic"
+				},
+				"yearpublished": "2008",
+				"image": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__original/img/IsrvRLpUV1TEyZsO5rC-btXaPz0=/0x0/filters:format(jpeg)/pic1534148.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__thumb/img/oqViRj6nVxK3m36NluTxU1PZkrk=/fit-in/200x150/filters:strip_icc()/pic1534148.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "130199"
+						},
+						"average": {
+							"_value": "7.52536"
+						},
+						"bayesaverage": {
+							"_value": "7.41804"
+						},
+						"stddev": {
+							"_value": "1.33727"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "214475"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-03 15:48:33"
+				},
+				"numplays": "0",
+				"comment": "I just love this game",
+				"_objecttype": "thing",
+				"_objectid": "30549",
+				"_subtype": "boardgame",
+				"_collid": "41636657"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pandemic Legacy: Season 1"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png",
+				"thumbnail": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__thumb/img/NQQcjS31TO0DE246N9rpt0hd9eo=/fit-in/200x150/filters:strip_icc()/pic2452831.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "55492"
+						},
+						"average": {
+							"_value": "8.51715"
+						},
+						"bayesaverage": {
+							"_value": "8.36495"
+						},
+						"stddev": {
+							"_value": "1.60055"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "86568"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:21:34"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "161936",
+				"_subtype": "boardgame",
+				"_collid": "79220586"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pandemic: In the Lab"
+				},
+				"yearpublished": "2013",
+				"image": "https://cf.geekdo-images.com/qxXkIuPd5XOgmvNamT89ew__original/img/5Ir0RFqyoTn0h38WXp_c36Ufu3o=/0x0/filters:format(jpeg)/pic1632485.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/qxXkIuPd5XOgmvNamT89ew__thumb/img/3YG036kSbGbYHts1ROtC4dDzS-4=/fit-in/200x150/filters:strip_icc()/pic1632485.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "5616"
+						},
+						"average": {
+							"_value": "7.8393"
+						},
+						"bayesaverage": {
+							"_value": "7.11946"
+						},
+						"stddev": {
+							"_value": "1.27739"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "6",
+					"_minplaytime": "45",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "21706"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:19:05"
+				},
+				"numplays": "0",
+				"comment": "I don't always play with this one but I still really like it\n\nalmost never add this expansion",
+				"_objecttype": "thing",
+				"_objectid": "137136",
+				"_subtype": "boardgame",
+				"_collid": "41636840"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pandemic: On the Brink"
+				},
+				"yearpublished": "2009",
+				"image": "https://cf.geekdo-images.com/MOsfIJrEqkGMUlo09TL3rw__original/img/cJ2kOhpNeVakyUn4SfzD8kwO6n8=/0x0/filters:format(jpeg)/pic7014070.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/MOsfIJrEqkGMUlo09TL3rw__thumb/img/CSEB6i26tqktFOXyh2IgqtR8zpE=/fit-in/200x150/filters:strip_icc()/pic7014070.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "18108"
+						},
+						"average": {
+							"_value": "8.03131"
+						},
+						"bayesaverage": {
+							"_value": "7.70739"
+						},
+						"stddev": {
+							"_value": "1.11929"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "52499"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-03 15:54:04"
+				},
+				"numplays": "0",
+				"comment": "best expansion I can think of",
+				"_objecttype": "thing",
+				"_objectid": "40849",
+				"_subtype": "boardgame",
+				"_collid": "41636857"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pandemic: The Cure"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__original/img/XeJ_F2OgSwwvTdEMsUiCAaatMb8=/0x0/filters:format(jpeg)/pic2225998.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/gCeKvj1ULixFOJ7uFawkcg__thumb/img/xD_r6E6ZwYKXH-rtVPhGZoVleC4=/fit-in/200x150/filters:strip_icc()/pic2225998.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "10929"
+						},
+						"average": {
+							"_value": "7.23716"
+						},
+						"bayesaverage": {
+							"_value": "6.92361"
+						},
+						"stddev": {
+							"_value": "1.22838"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "17534"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:54:42"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "150658",
+				"_subtype": "boardgame",
+				"_collid": "88378166"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Paranormal Detectives"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/2eV2FXx4DaSPpNJzG-eung__original/img/GfIfcXqpHqSU2K1hEGg6gX5atCI=/0x0/filters:format(png)/pic4746947.png",
+				"thumbnail": "https://cf.geekdo-images.com/2eV2FXx4DaSPpNJzG-eung__thumb/img/yJzP6LRlRzw0qaiXMsk3T2zkKqc=/fit-in/200x150/filters:strip_icc()/pic4746947.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2732"
+						},
+						"average": {
+							"_value": "6.96466"
+						},
+						"bayesaverage": {
+							"_value": "6.27903"
+						},
+						"stddev": {
+							"_value": "1.36094"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "6",
+					"_minplaytime": "30",
+					"_maxplaytime": "50",
+					"_playingtime": "50",
+					"_numowned": "5850"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:14:19"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "280136",
+				"_subtype": "boardgame",
+				"_collid": "107465713"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Patchwork"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__original/img/iVl8KAZ8JMmDXsnBqQecFRkOhK8=/0x0/filters:format(jpeg)/pic8669620.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc=/fit-in/200x150/filters:strip_icc()/pic8669620.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "70134"
+						},
+						"average": {
+							"_value": "7.58748"
+						},
+						"bayesaverage": {
+							"_value": "7.48076"
+						},
+						"stddev": {
+							"_value": "1.17053"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "2",
+					"_minplaytime": "15",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "114257"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:35:00"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "163412",
+				"_subtype": "boardgame",
+				"_collid": "88381139"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Photosynthesis"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__original/img/V6bgfuxV2jfmRbz9pJVyK01x6dI=/0x0/filters:format(jpeg)/pic3364832.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__thumb/img/eVdvmMALg8vjPr6eDoj-mqvDbUc=/fit-in/200x150/filters:strip_icc()/pic3364832.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "24915"
+						},
+						"average": {
+							"_value": "6.95149"
+						},
+						"bayesaverage": {
+							"_value": "6.78736"
+						},
+						"stddev": {
+							"_value": "1.27872"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "41325"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:57:04"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "218603",
+				"_subtype": "boardgame",
+				"_collid": "107465305"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Pictures"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/pR7dcr6bs5TIOHOhKIoe_A__original/img/YGaDDOA-Jtr9eS60TNUx51J36Ds=/0x0/filters:format(jpeg)/pic4946885.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/pR7dcr6bs5TIOHOhKIoe_A__thumb/img/YYa8rvA3RgJS6aT-HT2NRegGmuA=/fit-in/200x150/filters:strip_icc()/pic4946885.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "3527"
+						},
+						"average": {
+							"_value": "7.22701"
+						},
+						"bayesaverage": {
+							"_value": "6.55395"
+						},
+						"stddev": {
+							"_value": "1.31459"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "5",
+					"_minplaytime": "20",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "5993"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:08:22"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "284108",
+				"_subtype": "boardgame",
+				"_collid": "107465585"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Quacks"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__original/img/HulJk6gFzp_bxl0wzc2XEMq8NLM=/0x0/filters:format(png)/pic8780293.png",
+				"thumbnail": "https://cf.geekdo-images.com/B1bLRWzTASZ-xx9NoAE79A__thumb/img/deG3pr-ORZ3JrGvQA-oQNrwh0l0=/fit-in/200x150/filters:strip_icc()/pic8780293.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "54670"
+						},
+						"average": {
+							"_value": "7.81019"
+						},
+						"bayesaverage": {
+							"_value": "7.67288"
+						},
+						"stddev": {
+							"_value": "1.24923"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "86243"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-02-25 09:40:22"
+				},
+				"numplays": "1",
+				"_objecttype": "thing",
+				"_objectid": "244521",
+				"_subtype": "boardgame",
+				"_collid": "91618981"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Qwirkle"
+				},
+				"yearpublished": "2006",
+				"image": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__original/img/FNi6yap-UmVKX8X6rj0A_YW2q8Y=/0x0/filters:format(jpeg)/pic309353.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__thumb/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "21153"
+						},
+						"average": {
+							"_value": "6.77474"
+						},
+						"bayesaverage": {
+							"_value": "6.61214"
+						},
+						"stddev": {
+							"_value": "1.24859"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "41613"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:58:36"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "25669",
+				"_subtype": "boardgame",
+				"_collid": "132042327"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Rattlebones"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/kjkKAiAWtNJHvP-Z_s1esQ__original/img/Rt0YjFH6xrMU3SJpEig8Y5509vg=/0x0/filters:format(jpeg)/pic2399765.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/kjkKAiAWtNJHvP-Z_s1esQ__thumb/img/pGLIgFxY7aaOVHSHqCM_awQZky4=/fit-in/200x150/filters:strip_icc()/pic2399765.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1132"
+						},
+						"average": {
+							"_value": "6.48586"
+						},
+						"bayesaverage": {
+							"_value": "5.83015"
+						},
+						"stddev": {
+							"_value": "1.42898"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "40",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "1867"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-03 15:50:08"
+				},
+				"numplays": "0",
+				"comment": "I enjoy the Dice building aspect of this game",
+				"_objecttype": "thing",
+				"_objectid": "150146",
+				"_subtype": "boardgame",
+				"_collid": "41636712"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Red Rising"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/V6QEXXgRgz3urOrRVZ_1zA__original/img/Gp9hIVv-zRxlkrO5Pmg3aXb4P1M=/0x0/filters:format(jpeg)/pic5960554.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/V6QEXXgRgz3urOrRVZ_1zA__thumb/img/8zjF-E9xPNYLSsI6xQjRsZiI-XE=/fit-in/200x150/filters:strip_icc()/pic5960554.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "8803"
+						},
+						"average": {
+							"_value": "6.97584"
+						},
+						"bayesaverage": {
+							"_value": "6.6238"
+						},
+						"stddev": {
+							"_value": "1.47005"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "6",
+					"_minplaytime": "45",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "18216"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:01:12"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "329465",
+				"_subtype": "boardgame",
+				"_collid": "132042379"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Res Arcana"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__original/img/YLSAurBSWEGi3PHsuQWi8St_0Yg=/0x0/filters:format(jpeg)/pic4422847.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__thumb/img/5cPMxq_X6VIO8l2t1_6H7C_KqrU=/fit-in/200x150/filters:strip_icc()/pic4422847.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "23963"
+						},
+						"average": {
+							"_value": "7.6305"
+						},
+						"bayesaverage": {
+							"_value": "7.40622"
+						},
+						"stddev": {
+							"_value": "1.37039"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "32642"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:50:56"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "262712",
+				"_subtype": "boardgame",
+				"_collid": "107464996"
+			},
+			{
+				"name": {
+					"_sortindex": "5",
+					"__text": "The Resistance: Avalon"
+				},
+				"yearpublished": "2012",
+				"image": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__original/img/AF8HHaIad1re-eg3kd9mlm2j_ss=/0x0/filters:format(jpeg)/pic1398895.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__thumb/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "35043"
+						},
+						"average": {
+							"_value": "7.50381"
+						},
+						"bayesaverage": {
+							"_value": "7.3163"
+						},
+						"stddev": {
+							"_value": "1.51119"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "5",
+					"_maxplayers": "10",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "51458"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 13:57:16"
+				},
+				"numplays": "0",
+				"comment": "it just a fun game, lying to friend",
+				"_objecttype": "thing",
+				"_objectid": "128882",
+				"_subtype": "boardgame",
+				"_collid": "41637036"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Rising 5: Runes of Asteros"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/lT2i7cW3Ki9cMw8o4ZG5QA__original/img/eA0kSFBpZX7GdY5S9-0LYT7E4uc=/0x0/filters:format(jpeg)/pic2777591.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/lT2i7cW3Ki9cMw8o4ZG5QA__thumb/img/J8MgA3uZfOYibkJwRU680NKz7R8=/fit-in/200x150/filters:strip_icc()/pic2777591.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1961"
+						},
+						"average": {
+							"_value": "6.48864"
+						},
+						"bayesaverage": {
+							"_value": "5.95535"
+						},
+						"stddev": {
+							"_value": "1.41299"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "3307"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:06:03"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "185196",
+				"_subtype": "boardgame",
+				"_collid": "132042498"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Sagrada"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__original/img/5ug9EeKlH_ucJEUXaFpTZbBJ1GY=/0x0/filters:format(jpeg)/pic3525224.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__thumb/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "44401"
+						},
+						"average": {
+							"_value": "7.47183"
+						},
+						"bayesaverage": {
+							"_value": "7.32786"
+						},
+						"stddev": {
+							"_value": "1.15929"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "73839"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-01-06 13:09:59"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "199561",
+				"_subtype": "boardgame",
+				"_collid": "89594937"
+			},
+			{
+				"name": {
+					"_sortindex": "5",
+					"__text": "The Search for Planet X"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__original/img/fr-JmerGdiEj6r9UM7F6laogGF0=/0x0/filters:format(jpeg)/pic5744928.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__thumb/img/x8YD4cAVOAbSDsZbmKgU0-WQ9wI=/fit-in/200x150/filters:strip_icc()/pic5744928.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "14071"
+						},
+						"average": {
+							"_value": "7.9201"
+						},
+						"bayesaverage": {
+							"_value": "7.55826"
+						},
+						"stddev": {
+							"_value": "1.23351"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "75",
+					"_playingtime": "75",
+					"_numowned": "24416"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:22:09"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "279537",
+				"_subtype": "boardgame",
+				"_collid": "88378077"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Sleeping Gods"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__original/img/-okZ810RkA8fKKhIeZyX4cnqmbE=/0x0/filters:format(png)/pic5975244.png",
+				"thumbnail": "https://cf.geekdo-images.com/Zdt8l4oTBpFICsMyNof7Jg__thumb/img/71w4Tt3xOnuDEDTCG8ni63QUhVE=/fit-in/200x150/filters:strip_icc()/pic5975244.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "14047"
+						},
+						"average": {
+							"_value": "8.149"
+						},
+						"bayesaverage": {
+							"_value": "7.71836"
+						},
+						"stddev": {
+							"_value": "1.46697"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "60",
+					"_maxplaytime": "1200",
+					"_playingtime": "1200",
+					"_numowned": "32394"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:43:52"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "255984",
+				"_subtype": "boardgame",
+				"_collid": "107464858"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Small World"
+				},
+				"yearpublished": "2009",
+				"image": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__original/img/bYLzrwZO9u-3h2wyU-PHc8aTOY4=/0x0/filters:format(jpeg)/pic428828.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "73228"
+						},
+						"average": {
+							"_value": "7.19871"
+						},
+						"bayesaverage": {
+							"_value": "7.09439"
+						},
+						"stddev": {
+							"_value": "1.30005"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "40",
+					"_maxplaytime": "80",
+					"_playingtime": "80",
+					"_numowned": "100670"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:52:09"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "40692",
+				"_subtype": "boardgame",
+				"_collid": "78633286"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "So Clover!"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/8oipK9-ivkn53h7L5U2Yfg__original/img/KtvdQ2mT4ShhUaJekT9IvuOCvv8=/0x0/filters:format(png)/pic6588069.png",
+				"thumbnail": "https://cf.geekdo-images.com/8oipK9-ivkn53h7L5U2Yfg__thumb/img/cBKt41XFKkdphyqZItit4EIC45k=/fit-in/200x150/filters:strip_icc()/pic6588069.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "9969"
+						},
+						"average": {
+							"_value": "7.58815"
+						},
+						"bayesaverage": {
+							"_value": "7.19972"
+						},
+						"stddev": {
+							"_value": "1.21154"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "6",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "17059"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:53:46"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "329839",
+				"_subtype": "boardgame",
+				"_collid": "107465196"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Space Base"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__original/img/QyWen0FVOKD_4wf7Na7fdsMTjis=/0x0/filters:format(jpeg)/pic6640638.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/MHhQxXVjiaa6C-04nGiIWw__thumb/img/rgETRyeuYs_wiZ5y-9Zj5H8kyFo=/fit-in/200x150/filters:strip_icc()/pic6640638.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "21263"
+						},
+						"average": {
+							"_value": "7.5423"
+						},
+						"bayesaverage": {
+							"_value": "7.32022"
+						},
+						"stddev": {
+							"_value": "1.26632"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "29313"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-02-25 10:30:31"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "242302",
+				"_subtype": "boardgame",
+				"_collid": "91620418"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Splendor"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__original/img/rqcUdtu_N4v-SpI96XVmpYHnJww=/0x0/filters:format(png)/pic8234167.png",
+				"thumbnail": "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__thumb/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "85084"
+						},
+						"average": {
+							"_value": "7.4179"
+						},
+						"bayesaverage": {
+							"_value": "7.29326"
+						},
+						"stddev": {
+							"_value": "1.29024"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "128189"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2019-01-04 14:46:23"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "148228",
+				"_subtype": "boardgame",
+				"_collid": "57227572"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Sub Terra"
+				},
+				"yearpublished": "2017",
+				"image": "https://cf.geekdo-images.com/47Z9FcLD20NDHdRYUaF_XA__original/img/ZS_FE1Q7_pIsd_XuOWmh_1IR8vI=/0x0/filters:format(png)/pic3904427.png",
+				"thumbnail": "https://cf.geekdo-images.com/47Z9FcLD20NDHdRYUaF_XA__thumb/img/I6Uog8mnrK4MgjiQlIMGcrQ01r8=/fit-in/200x150/filters:strip_icc()/pic3904427.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "5772"
+						},
+						"average": {
+							"_value": "7.36336"
+						},
+						"bayesaverage": {
+							"_value": "6.76684"
+						},
+						"stddev": {
+							"_value": "1.41227"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "6",
+					"_minplaytime": "60",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "9394"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:58:39"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "204472",
+				"_subtype": "boardgame",
+				"_collid": "107465351"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Summer Camp"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/KshsJJWgb265ZQjcxyZ89w__original/img/xnOVN46wMhi0thUUWnkkYPB68-k=/0x0/filters:format(jpeg)/pic6149210.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/KshsJJWgb265ZQjcxyZ89w__thumb/img/PFAUP9Kc-FqvZedvcr8zIrmZL2M=/fit-in/200x150/filters:strip_icc()/pic6149210.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2225"
+						},
+						"average": {
+							"_value": "7.12756"
+						},
+						"bayesaverage": {
+							"_value": "6.29258"
+						},
+						"stddev": {
+							"_value": "1.15759"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "6008"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:20:58"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "337787",
+				"_subtype": "boardgame",
+				"_collid": "132042844"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Sushi Go Party!"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__original/img/WQcFmlhYBMIp8f6gNNVhnnue1w4=/0x0/filters:format(jpeg)/pic5885689.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__thumb/img/_mXR9Tlo0f-i80h6pfhDEOBgvpY=/fit-in/200x150/filters:strip_icc()/pic5885689.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "37559"
+						},
+						"average": {
+							"_value": "7.38256"
+						},
+						"bayesaverage": {
+							"_value": "7.22802"
+						},
+						"stddev": {
+							"_value": "1.1556"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "8",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "69418"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:22:02"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "192291",
+				"_subtype": "boardgame",
+				"_collid": "88378048"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Switching Gears (fan expansion for T.I.M.E Stories)"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/Rg_J8i5BiiFf631Sd8BcKQ__original/img/H-WhyFkh5JgkUdGKI7peWqyk8Cc=/0x0/filters:format(jpeg)/pic3024502.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/Rg_J8i5BiiFf631Sd8BcKQ__thumb/img/Yj9TscbRz_yKzDxLsnn86L7ik70=/fit-in/200x150/filters:strip_icc()/pic3024502.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "242"
+						},
+						"average": {
+							"_value": "7.23292"
+						},
+						"bayesaverage": {
+							"_value": "5.64727"
+						},
+						"stddev": {
+							"_value": "1.63869"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "4",
+					"_minplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "460"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-24 10:36:16"
+				},
+				"numplays": "2",
+				"_objecttype": "thing",
+				"_objectid": "200443",
+				"_subtype": "boardgame",
+				"_collid": "41933191"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "T.I.M.E Stories"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__original/img/sUuboe9L4_nrIokyjAE74uklCjE=/0x0/filters:format(png)/pic2617634.png",
+				"thumbnail": "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__thumb/img/tTU1YVtab-cN5gCdagINowvVA2g=/fit-in/200x150/filters:strip_icc()/pic2617634.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "28255"
+						},
+						"average": {
+							"_value": "7.36368"
+						},
+						"bayesaverage": {
+							"_value": "7.16577"
+						},
+						"stddev": {
+							"_value": "1.7349"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "90",
+					"_maxplaytime": "90",
+					"_playingtime": "90",
+					"_numowned": "42630"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 13:50:18"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "146508",
+				"_subtype": "boardgame",
+				"_collid": "41804088"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Takenoko"
+				},
+				"yearpublished": "2011",
+				"image": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__original/img/HxMG1z7bIVGCGPI6u6ciVO0Oubk=/0x0/filters:format(jpeg)/pic1912529.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__thumb/img/vz9Ec1xB2b4JJQlZFijUsuCvfkQ=/fit-in/200x150/filters:strip_icc()/pic1912529.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "46393"
+						},
+						"average": {
+							"_value": "7.20317"
+						},
+						"bayesaverage": {
+							"_value": "7.06628"
+						},
+						"stddev": {
+							"_value": "1.19804"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "74323"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:55:13"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "70919",
+				"_subtype": "boardgame",
+				"_collid": "132042220"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Tarot"
+				},
+				"yearpublished": "1425",
+				"image": "https://cf.geekdo-images.com/s2Kw73BKyYVh1hAb-8yUqg__original/img/XvLa_LINNRCV4DSWMFV8GZ9HKeo=/0x0/filters:format(jpeg)/pic489699.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/s2Kw73BKyYVh1hAb-8yUqg__thumb/img/dBSNJ0KtmJv6-7YjYyAWSKn-Hdo=/fit-in/200x150/filters:strip_icc()/pic489699.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "989"
+						},
+						"average": {
+							"_value": "6.86694"
+						},
+						"bayesaverage": {
+							"_value": "5.87321"
+						},
+						"stddev": {
+							"_value": "1.89564"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "8",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "2002"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:28:29"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "4505",
+				"_subtype": "boardgame",
+				"_collid": "132043063"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Telestrations After Dark"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/lxSrSu2-x2PcDwi78SACjA__original/img/eCKJZh3dTN8MdEYAN6hy_LMyxR0=/0x0/filters:format(jpeg)/pic2564213.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/lxSrSu2-x2PcDwi78SACjA__thumb/img/Q_q-a0H1MT30IIOVtmHAsIaiqP8=/fit-in/200x150/filters:strip_icc()/pic2564213.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1960"
+						},
+						"average": {
+							"_value": "7.10353"
+						},
+						"bayesaverage": {
+							"_value": "6.18926"
+						},
+						"stddev": {
+							"_value": "1.5504"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "8",
+					"_minplaytime": "20",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "5619"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2017-04-11 13:38:47"
+				},
+				"numplays": "0",
+				"comment": "'the after dark' is probably not really necessary to have fun, but this game make us always laugh so bad",
+				"_objecttype": "thing",
+				"_objectid": "173761",
+				"_subtype": "boardgame",
+				"_collid": "41636650"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Terraforming Mars: Ares Expedition"
+				},
+				"yearpublished": "2021",
+				"image": "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__original/img/upZwrb6k8zZMNTwB8VfpI372yuo=/0x0/filters:format(jpeg)/pic6260098.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__thumb/img/YxoNRQg9owsoi68POaMY0Ix31ZI=/fit-in/200x150/filters:strip_icc()/pic6260098.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "19260"
+						},
+						"average": {
+							"_value": "7.6505"
+						},
+						"bayesaverage": {
+							"_value": "7.38269"
+						},
+						"stddev": {
+							"_value": "1.38311"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "45",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "37181"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:00:52"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "328871",
+				"_subtype": "boardgame",
+				"_collid": "132042370"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Ticket to Ride"
+				},
+				"yearpublished": "2004",
+				"image": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__original/img/LgzEsQlF3xkSEQLoorc8ntiYiIY=/0x0/filters:format(jpeg)/pic38668.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/ZWJg0dCdrWHxVnc0eFXK8w__thumb/img/a9rsFV6KR0aun8GobhRU16aU8Kc=/fit-in/200x150/filters:strip_icc()/pic38668.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "94098"
+						},
+						"average": {
+							"_value": "7.38927"
+						},
+						"bayesaverage": {
+							"_value": "7.26801"
+						},
+						"stddev": {
+							"_value": "1.30048"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "5",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "139459"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:21:57"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "9209",
+				"_subtype": "boardgame",
+				"_collid": "88378032"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Ticket to Ride: New York"
+				},
+				"yearpublished": "2018",
+				"image": "https://cf.geekdo-images.com/v0YHI6x4g8dJdtSqaxMdiA__original/img/U0g-dhZFasfDloAJDxP1NT5ruDI=/0x0/filters:format(jpeg)/pic4132194.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/v0YHI6x4g8dJdtSqaxMdiA__thumb/img/wqM16CzK9QcarS8s6X6iAxvFe3Q=/fit-in/200x150/filters:strip_icc()/pic4132194.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "7324"
+						},
+						"average": {
+							"_value": "6.89582"
+						},
+						"bayesaverage": {
+							"_value": "6.53944"
+						},
+						"stddev": {
+							"_value": "1.17101"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "6.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "10",
+					"_maxplaytime": "15",
+					"_playingtime": "15",
+					"_numowned": "16851"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:00:50"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "253284",
+				"_subtype": "boardgame",
+				"_collid": "79221054"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Trekking Through History"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__original/img/EMx7ANS4LvolbOXmwJh-wT0UXPQ=/0x0/filters:format(jpeg)/pic7970728.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__thumb/img/tOJGm1XgsWhDP9BOiJHBfIxbOIA=/fit-in/200x150/filters:strip_icc()/pic7970728.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "5627"
+						},
+						"average": {
+							"_value": "7.56143"
+						},
+						"bayesaverage": {
+							"_value": "6.95723"
+						},
+						"stddev": {
+							"_value": "1.10791"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "30",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "11245"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:05:25"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "353288",
+				"_subtype": "boardgame",
+				"_collid": "132042483"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Turing Machine"
+				},
+				"yearpublished": "2022",
+				"image": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__original/img/wFqPVYmL1i9rc426afzYana7ZnE=/0x0/filters:format(png)/pic6883492.png",
+				"thumbnail": "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__thumb/img/I4QR01ZS6TTIHgW3UpdOYvePRxQ=/fit-in/200x150/filters:strip_icc()/pic6883492.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "8770"
+						},
+						"average": {
+							"_value": "7.64997"
+						},
+						"bayesaverage": {
+							"_value": "7.1718"
+						},
+						"stddev": {
+							"_value": "1.40765"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7.5"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "16674"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:53:20"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "356123",
+				"_subtype": "boardgame",
+				"_collid": "107465292"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Ultimate Werewolf: Deluxe Edition"
+				},
+				"yearpublished": "2014",
+				"image": "https://cf.geekdo-images.com/dncdxD1g4dxMh9e8oKlzbg__original/img/o-44FqDtvZ28uqX_V_rcpEnzqsI=/0x0/filters:format(png)/pic1878492.png",
+				"thumbnail": "https://cf.geekdo-images.com/dncdxD1g4dxMh9e8oKlzbg__thumb/img/Wd1gXoEgJjq9vG3ZCP8_H1hP2eE=/fit-in/200x150/filters:strip_icc()/pic1878492.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2098"
+						},
+						"average": {
+							"_value": "7.00169"
+						},
+						"bayesaverage": {
+							"_value": "6.13335"
+						},
+						"stddev": {
+							"_value": "1.72705"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "5",
+					"_maxplayers": "75",
+					"_minplaytime": "30",
+					"_maxplaytime": "30",
+					"_playingtime": "30",
+					"_numowned": "6530"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 12:02:17"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "152242",
+				"_subtype": "boardgame",
+				"_collid": "132042413"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Unmatched Adventures: Tales to Amaze"
+				},
+				"yearpublished": "2023",
+				"image": "https://cf.geekdo-images.com/pDiHT-n1xpW71Ck_wiR8_g__original/img/pho_viNg1Jk28LoXbMkTTvVHOIw=/0x0/filters:format(png)/pic7375477.png",
+				"thumbnail": "https://cf.geekdo-images.com/pDiHT-n1xpW71Ck_wiR8_g__thumb/img/OZ4P9ZIWCKAlisyIas_rsyj6hiI=/fit-in/200x150/filters:strip_icc()/pic7375477.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "3285"
+						},
+						"average": {
+							"_value": "8.01679"
+						},
+						"bayesaverage": {
+							"_value": "6.92793"
+						},
+						"stddev": {
+							"_value": "1.39675"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "60",
+					"_playingtime": "60",
+					"_numowned": "9857"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:56:43"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "381297",
+				"_subtype": "boardgame",
+				"_collid": "132042267"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Unmatched: Battle of Legends, Volume One"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/4AlLbprNustr9G7pbkGRuw__original/img/d7Z89SEv9T_HqPaYEomeKcFmgeA=/0x0/filters:format(jpeg)/pic4621579.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/4AlLbprNustr9G7pbkGRuw__thumb/img/nVkIL7RgCkFpBuxbJ3BfOxIJscU=/fit-in/200x150/filters:strip_icc()/pic4621579.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "10034"
+						},
+						"average": {
+							"_value": "7.70793"
+						},
+						"bayesaverage": {
+							"_value": "7.23103"
+						},
+						"stddev": {
+							"_value": "1.33852"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "19497"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2022-01-27 13:03:30"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "274637",
+				"_subtype": "boardgame",
+				"_collid": "79220811"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Unmatched: Cobble & Fog"
+				},
+				"yearpublished": "2020",
+				"image": "https://cf.geekdo-images.com/iyIO6udRfIn0xM1rIxyO2g__original/img/PZBFIDjPGZddto7n5F5gP_2slUA=/0x0/filters:format(jpeg)/pic5056685.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/iyIO6udRfIn0xM1rIxyO2g__thumb/img/oKVEm_nmurLwHbp9QPNNEyJkzeE=/fit-in/200x150/filters:strip_icc()/pic5056685.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "8634"
+						},
+						"average": {
+							"_value": "7.94609"
+						},
+						"bayesaverage": {
+							"_value": "7.37433"
+						},
+						"stddev": {
+							"_value": "1.25952"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "9"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "4",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "20044"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-01-20 14:39:26"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "294484",
+				"_subtype": "boardgame",
+				"_collid": "78633472"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Unusual Suspects"
+				},
+				"yearpublished": "2015",
+				"image": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__original/img/hhrhSPvohXSd-M1viPx8kZ7ntAQ=/0x0/filters:format(jpeg)/pic3090549.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__thumb/img/HIwRv_RZVvn6CkIE3Kd43JdQPjY=/fit-in/200x150/filters:strip_icc()/pic3090549.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2989"
+						},
+						"average": {
+							"_value": "6.39574"
+						},
+						"bayesaverage": {
+							"_value": "5.9995"
+						},
+						"stddev": {
+							"_value": "1.52206"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "16",
+					"_minplaytime": "20",
+					"_maxplaytime": "20",
+					"_playingtime": "20",
+					"_numowned": "4352"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:20:04"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "178570",
+				"_subtype": "boardgame",
+				"_collid": "107465857"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Wavelength"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__original/img/bP1gM8RC-o5iz20_WazBaBNDHnU=/0x0/filters:format(png)/pic4552862.png",
+				"thumbnail": "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__thumb/img/bxLuHVLF-Y06jWRSKA-tuQ3YYcE=/fit-in/200x150/filters:strip_icc()/pic4552862.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "15724"
+						},
+						"average": {
+							"_value": "7.23561"
+						},
+						"bayesaverage": {
+							"_value": "6.98782"
+						},
+						"stddev": {
+							"_value": "1.2931"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8.5"
+					},
+					"_minplayers": "2",
+					"_maxplayers": "12",
+					"_minplaytime": "30",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "27575"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:10:22"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "262543",
+				"_subtype": "boardgame",
+				"_collid": "78632265"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "When I Dream"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/E7bmvTXE2dWskxFaMwXYrA__original/img/B4tgeOFmRTASb8G5Ak2KCKwsTk0=/0x0/filters:format(png)/pic3747128.png",
+				"thumbnail": "https://cf.geekdo-images.com/E7bmvTXE2dWskxFaMwXYrA__thumb/img/aR_FTYkNL8LoAijfVLmlblrUs5w=/fit-in/200x150/filters:strip_icc()/pic3747128.png",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "5937"
+						},
+						"average": {
+							"_value": "6.93727"
+						},
+						"bayesaverage": {
+							"_value": "6.51316"
+						},
+						"stddev": {
+							"_value": "1.32317"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "10",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "10788"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:01:56"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "198454",
+				"_subtype": "boardgame",
+				"_collid": "107465433"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Wingspan"
+				},
+				"yearpublished": "2019",
+				"image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "102933"
+						},
+						"average": {
+							"_value": "8.02119"
+						},
+						"bayesaverage": {
+							"_value": "7.87039"
+						},
+						"stddev": {
+							"_value": "1.36795"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "8"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "5",
+					"_minplaytime": "40",
+					"_maxplaytime": "70",
+					"_playingtime": "70",
+					"_numowned": "162628"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2021-12-08 15:11:06"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "266192",
+				"_subtype": "boardgame",
+				"_collid": "78631684"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Witchcraft!"
+				},
+				"yearpublished": "2023",
+				"image": "https://cf.geekdo-images.com/sfgo3BXIx9lE_OP1sOnzwA__original/img/E-OtrtBF_62Eu47OExvuzEojt-I=/0x0/filters:format(jpeg)/pic7442805.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/sfgo3BXIx9lE_OP1sOnzwA__thumb/img/R3D3u6uZQ2cUI8ehs3c-VxUzXy0=/fit-in/200x150/filters:strip_icc()/pic7442805.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1699"
+						},
+						"average": {
+							"_value": "7.7225"
+						},
+						"bayesaverage": {
+							"_value": "6.44048"
+						},
+						"stddev": {
+							"_value": "1.10391"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "N/A"
+					},
+					"_minplayers": "1",
+					"_maxplayers": "1",
+					"_minplaytime": "20",
+					"_maxplaytime": "40",
+					"_playingtime": "40",
+					"_numowned": "5694"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2025-05-06 11:59:50"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "383499",
+				"_subtype": "boardgame",
+				"_collid": "132042354"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Wits & Wagers Party"
+				},
+				"yearpublished": "2012",
+				"image": "https://cf.geekdo-images.com/8L0pOe9aMT6Mi4FeieCA0A__original/img/RKx-oEQ9bSMymahtEls8qH9hNb4=/0x0/filters:format(jpeg)/pic1285411.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/8L0pOe9aMT6Mi4FeieCA0A__thumb/img/PWD8e79h8wQ2X6MEBLQDpXsEP34=/fit-in/200x150/filters:strip_icc()/pic1285411.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "2608"
+						},
+						"average": {
+							"_value": "6.89941"
+						},
+						"bayesaverage": {
+							"_value": "6.24462"
+						},
+						"stddev": {
+							"_value": "1.25376"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "4",
+					"_maxplayers": "18",
+					"_minplaytime": "25",
+					"_maxplaytime": "25",
+					"_playingtime": "25",
+					"_numowned": "6206"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2019-01-04 14:44:47"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "123239",
+				"_subtype": "boardgame",
+				"_collid": "41636821"
+			},
+			{
+				"name": {
+					"_sortindex": "1",
+					"__text": "Word Slam"
+				},
+				"yearpublished": "2016",
+				"image": "https://cf.geekdo-images.com/mPuVAXdzMGtrAG1JcWGolg__original/img/AXQRRt81DvdCnuGbR0czTaxgU_4=/0x0/filters:format(jpeg)/pic3332427.jpg",
+				"thumbnail": "https://cf.geekdo-images.com/mPuVAXdzMGtrAG1JcWGolg__thumb/img/4juZTp5ZF-WbsZaFRIo05H1RKiM=/fit-in/200x150/filters:strip_icc()/pic3332427.jpg",
+				"stats": {
+					"rating": {
+						"usersrated": {
+							"_value": "1138"
+						},
+						"average": {
+							"_value": "6.91342"
+						},
+						"bayesaverage": {
+							"_value": "5.97183"
+						},
+						"stddev": {
+							"_value": "1.43324"
+						},
+						"median": {
+							"_value": "0"
+						},
+						"_value": "7"
+					},
+					"_minplayers": "3",
+					"_maxplayers": "99",
+					"_minplaytime": "45",
+					"_maxplaytime": "45",
+					"_playingtime": "45",
+					"_numowned": "1730"
+				},
+				"status": {
+					"_own": "1",
+					"_prevowned": "0",
+					"_fortrade": "0",
+					"_want": "0",
+					"_wanttoplay": "0",
+					"_wanttobuy": "0",
+					"_wishlist": "0",
+					"_preordered": "0",
+					"_lastmodified": "2023-06-18 14:51:25"
+				},
+				"numplays": "0",
+				"_objecttype": "thing",
+				"_objectid": "203411",
+				"_subtype": "boardgame",
+				"_collid": "91619435"
+			}
+		],
+		"_totalitems": "116",
+		"_termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+		"_pubdate": "Tue, 06 May 2025 17:41:31 +0000"
+	}
+}

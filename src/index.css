@@ -1,0 +1,45 @@
+.gameCard {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.gameDetails {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.imageContainer {
+  flex: 1 1 250px;
+  max-width: 250px;
+}
+
+.gameImage {
+  width: 80%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.gameInfo,
+.gameEdit {
+  flex: 1 1 250px;
+  min-width: 200px;
+}
+
+.gameEdit {
+  display: flex;
+  flex-direction: column;
+}
+
+.gameEdit label {
+  margin-top: 0.5rem;
+  font-weight: bold;
+}
+
+.gameEdit input {
+  margin-bottom: 0.5rem;
+  padding: 0.25rem;
+}
