@@ -1,4 +1,4 @@
-import { Component, useState } from "react";
+import { useState } from "react";
 
 // component
 import DisplayGames from "./component/displayGames";
@@ -21,7 +21,11 @@ function App() {
 
   return (
     <div className="container my-4">
-      <h1 className="text-center">Pick-a-Play</h1>
+      <img
+        className="mainLogo"
+        src="/logoPaPlong.png"
+        alt="pick-a-play logo"
+      ></img>
       <div className="d-flex flex-wrap align-items-center gap-2 mb-3">
         <div className="dropdown">
           <button
