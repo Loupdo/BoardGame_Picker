@@ -1,10 +1,14 @@
 const mechanicsList = [
     "Area Control / Area Influence",
     "Auction / Bidding",
-    "Card Drafting",
+    "Drafting",
+    'Communication Limits',
     "Cooperative Game",
     "Deck Building",
+    "Deduction",
     "Dice Rolling",
+    "Engine Builder",
+    "Give a Clue/Get a Clue",
     "Grid Movement",
     "Hand Management",
     "Hidden Roles",
@@ -23,11 +27,13 @@ const mechanicsList = [
     "Set Collection",
     "Simultaneous Action Selection",
     "Storytelling",
+    'Tableau Building',
     "Take That",
     "Tile Placement",
     "Trading",
     "Trick-taking",
     "Variable Player Powers",
+    "Word Game",
     "Worker Placement"
   ];
   export default mechanicsList;

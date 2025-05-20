@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { BoardGame } from "./interface";
 
 // component
 import DisplayGames from "./component/displayGames";
@@ -15,8 +16,17 @@ function App() {
   const [sortTerm, setSortTerm] = useState("Alphabetic");
   const [timePlay, setTimePlay] = useState("180");
   const [numPlayer, setNumPlayer] = useState(100);
-  const [selectedMechanics, setSelectedMechanics] = useState<string[]>([]);
-  const [collection, setCollection] = useState(fullCollection);
+  const [selectedMechanic, setSelectedMechanic] = useState("");
+
+  const [collection, setCollection] = useState(() => {
+    const saved = localStorage.getItem("collection");
+    return saved ? JSON.parse(saved) : fullCollection;
+  });
+
+  useEffect(() => {
+    localStorage.setItem("collection", JSON.stringify(collection));
+  }, [collection]);
+
   const [showFilter, setShowFilter] = useState(false);
 
   return (
@@ -147,18 +157,12 @@ function App() {
           <div className="form-group mb-3">
             <label htmlFor="mechanics">Mechanics</label>
             <select
-              multiple
               className="form-control"
               id="mechanics"
-              value={selectedMechanics}
-              onChange={(e) => {
-                const options = Array.from(
-                  e.target.selectedOptions,
-                  (opt) => opt.value
-                );
-                setSelectedMechanics(options);
-              }}
+              value={selectedMechanic}
+              onChange={(e) => setSelectedMechanic(e.target.value)}
             >
+              <option value="">-- Select a mechanic --</option>
               {mechanicsList.map((mech) => (
                 <option key={mech} value={mech}>
                   {mech}
@@ -174,7 +178,7 @@ function App() {
               const filtered = filterCollection(
                 numPlayer,
                 Number(timePlay),
-                selectedMechanics,
+                selectedMechanic,
                 fullCollection
               );
               setCollection(sortCollection(sortTerm, filtered));
@@ -184,7 +188,15 @@ function App() {
           </button>
         </form>
       )}
-      <DisplayGames collection={collection} />
+      <DisplayGames
+        collection={collection}
+        onUpdateGame={(updatedGame) => {
+          const updatedCollection = collection.map((game: BoardGame) =>
+            game.name === updatedGame.name ? updatedGame : game
+          );
+          setCollection(updatedCollection);
+        }}
+      />
     </div>
   );
 }

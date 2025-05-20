@@ -1,18 +1,16 @@
 import { BoardGame } from '../interface';
 
 export default function filterCollection(
-  playerCount: number,
-  maxPlaytime: number,
-  selectedMechanics: string[],
-  collection: BoardGame[]
+  numPlayers: number,
+  maxPlayTime: number,
+  mechanic: string,
+  games: BoardGame[]
 ): BoardGame[] {
-  return collection.filter(game => {
-    if (game.playtime! > maxPlaytime) 
-      return false;
-    if ( playerCount < game.playerMin! || playerCount > game.playerMax!)
-      return false;
-    if ( selectedMechanics.length > 0 && selectedMechanics.includes(game.mainMechanics)
-      ) return false;
-    return true;
+  return games.filter((game) => {
+    const fitsPlayer =
+      game.playerMin! <= numPlayers && game.playerMax! >= numPlayers;
+    const fitsTime = game.playtime! <= maxPlayTime;
+    const hasMechanic = mechanic === "" || game.mainMechanics?.includes(mechanic);
+    return fitsPlayer && fitsTime && hasMechanic;
   });
 }

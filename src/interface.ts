@@ -8,7 +8,7 @@ export interface BoardGame {
     playtime: number | null;
     usersRated: number;
     popularity: number;
-    theme:string | "Not entered yet"
-    mainMechanics:string | "Not entered yet"
+    theme: string;
+    mainMechanics: string[];
   }
 
