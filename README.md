@@ -4,37 +4,40 @@ A web application for browsing board games. Currently under development.
 ## 🚧 Project Status
 This project is in construction.
 
-✅ Stable base commit: 9b3d5ab – A working version of the boardgame display.
+🆕 New: Users can now edit a board game's theme and mechanics, including adding and removing mechanics interactively.
 
-🚫 No functionality to save or edit board games yet.
-
-🔍 Filter/search functionality is planned but not implemented.
+🔍 Filter functionality implemented/ search is planned but not yet implemented
 
 ## Features (in progress)
- Display board game list (from static or test data).
 
- Add filters (e.g., by name, theme, number of players, etc.).
+📋 Display board game list (from static/test data) 
 
- Add functionality to save or edit board games.
+🛠️ Edit game theme and main mechanics 
 
- UI improvements and responsive design.
+➕ Add mechanics from dropdown 
+
+❌ Remove selected mechanics with a click
+
+🎨 UI improvements with responsive layout (ongoing)
 
 ## 💡 Next Steps
-Implement filter input and logic to dynamically search through board games.
 
-Connect to persistent storage or add local state for saving changes.
+🔎 Implement dynamic search
+
+💾 Connect to persistent storage or enhance local state handling
+
+🧪 Add validation and better form UX
+
+📱 Improve mobile responsiveness
 
 ## 📦 Tech Stack
-HTML / CSS / TypeScript/React
+
+HTML / CSS
+TypeScript / React
 
 ## 📁 Getting Started
 Clone the repository
 
-Open index.html in your browser
+npm install
+npm start
 
-View board games (currently static)
-
-Check back for filter/search updates soon! Next Steps
-Implement filter input and logic to dynamically search through board games.
-
-Connect to persistent storage or add local state for saving changes.
